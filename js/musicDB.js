@@ -6,6 +6,26 @@
 //lrc		歌词链接			否
 window.QPlayer.list = [
 	{
+        "name": "光阴的故事",
+        "artist": "罗大佑",
+        "audio": "https://cdn.jsdelivr.net/gh/gitcate/cdn/music/罗大佑_光阴的故事.mp3"
+    },
+	{
+        "name": "故乡",
+        "artist": "许巍",
+        "audio": "https://cdn.jsdelivr.net/gh/gitcate/cdn/music/许巍_故乡.mp3"
+    },
+	{
+        "name": "都是夜归人",
+        "artist": "许美静",
+        "audio": "https://cdn.jsdelivr.net/gh/gitcate/cdn/music/许美静_都是夜归人.mp3"
+    },
+	{
+        "name": "Andy",
+        "artist": "阿杜",
+        "audio": "https://cdn.jsdelivr.net/gh/gitcate/cdn/music/阿杜_Andy.mp3"
+    },
+	{
         "name": "Uptown Funk",
         "artist": "Mark Ronson",
         "audio": "https://cdn.jsdelivr.net/gh/gitcate/cdn/music/Mark Ronson_Uptown Funk.mp3"
