@@ -11,9 +11,19 @@ window.QPlayer.list = [
         "audio": "https://cdn.jsdelivr.net/gh/gitcate/cdn/music/Charice_Louder.mp3",
     },
     {
+        "name": "I Hate Myself For Loving You",
+        "artist": "Joan Jett",
+        "audio": "https://cdn.jsdelivr.net/gh/gitcate/cdn/music/Joan Jett_I Hate Myself For Loving You.mp3",
+    },
+    {
         "name": "Uptown Funk",
         "artist": "Mark Ronson",
         "audio": "https://cdn.jsdelivr.net/gh/gitcate/cdn/music/Mark Ronson_Uptown Funk.mp3",
+    },
+    {
+        "name": "Brother Louie",
+        "artist": "Modern Talking",
+        "audio": "https://cdn.jsdelivr.net/gh/gitcate/cdn/music/Modern Talking_Brother Louie.mp3",
     },
     {
         "name": "เจอกับตัวเอง...ถึงรู้",
@@ -29,6 +39,11 @@ window.QPlayer.list = [
         "name": "信仰",
         "artist": "张信哲",
         "audio": "https://cdn.jsdelivr.net/gh/gitcate/cdn/music/张信哲_信仰.mp3",
+    },
+    {
+        "name": "饿狼传说",
+        "artist": "张学友",
+        "audio": "https://cdn.jsdelivr.net/gh/gitcate/cdn/music/张学友_饿狼传说.mp3",
     },
     {
         "name": "护花使者",
@@ -71,9 +86,19 @@ window.QPlayer.list = [
         "audio": "https://cdn.jsdelivr.net/gh/gitcate/cdn/music/阿杜_Andy.mp3",
     },
     {
+        "name": "撕夜",
+        "artist": "阿杜",
+        "audio": "https://cdn.jsdelivr.net/gh/gitcate/cdn/music/阿杜_撕夜.mp3",
+    },
+    {
         "name": "童话镇",
         "artist": "陈一发儿",
         "audio": "https://cdn.jsdelivr.net/gh/gitcate/cdn/music/陈一发儿_童话镇.mp3",
+    },
+    {
+        "name": "伤感的恋人",
+        "artist": "黄凯芹",
+        "audio": "https://cdn.jsdelivr.net/gh/gitcate/cdn/music/黄凯芹_伤感的恋人.mp3",
     },
     {
         "name": "无地自容",
