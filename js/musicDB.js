@@ -21,6 +21,11 @@ window.QPlayer.list = [
         "audio": "https://cdn.jsdelivr.net/gh/gitcate/cdn/music/Sara Nusara Poongprasert_เจอกับตัวเอง...ถึงรู้.mp3",
     },
     {
+        "name": "世界第一等",
+        "artist": "刘德华",
+        "audio": "https://cdn.jsdelivr.net/gh/gitcate/cdn/music/刘德华_世界第一等.mp3",
+    },
+    {
         "name": "信仰",
         "artist": "张信哲",
         "audio": "https://cdn.jsdelivr.net/gh/gitcate/cdn/music/张信哲_信仰.mp3",
@@ -39,6 +44,11 @@ window.QPlayer.list = [
         "name": "光阴的故事",
         "artist": "罗大佑",
         "audio": "https://cdn.jsdelivr.net/gh/gitcate/cdn/music/罗大佑_光阴的故事.mp3",
+    },
+    {
+        "name": "许愿池的希腊少女",
+        "artist": "蔡依林",
+        "audio": "https://cdn.jsdelivr.net/gh/gitcate/cdn/music/蔡依林_许愿池的希腊少女.mp3",
     },
     {
         "name": "故乡",
